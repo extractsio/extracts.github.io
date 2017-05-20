@@ -5,4 +5,6 @@
 <url> <loc>https://extracts.io/hubspot/</loc> <changefreq>weekly</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://extracts.io/google-analytics/</loc> <changefreq>weekly</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://extracts.io/mixpanel/</loc> <changefreq>weekly</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://extracts.io/sage-one/</loc> <changefreq>weekly</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://extracts.io/trello/</loc> <changefreq>weekly</changefreq> <priority>0.7</priority> </url>
 </urlset>
